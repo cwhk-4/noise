@@ -9,6 +9,8 @@
 ビルドデータ：https://drive.google.com/file/d/1OZVXLxVK7ST0rlrK6xKAbD5W2yTjU2gW/view?usp=sharing
 
 ----
+ゲーム概要
+----
 
 コントローラー、または方向キーでキャラクターを操作し、ギミックや傘を使って、ゴールを目指します。
 
